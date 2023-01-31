@@ -1,0 +1,15 @@
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\bin\Debug\net7.0\Example002_a=bb.exe
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\bin\Debug\net7.0\Example002_a=bb.deps.json
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\bin\Debug\net7.0\Example002_a=bb.runtimeconfig.json
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\bin\Debug\net7.0\Example002_a=bb.dll
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\bin\Debug\net7.0\Example002_a=bb.pdb
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\obj\Debug\net7.0\Example002_a=bb.csproj.AssemblyReference.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\obj\Debug\net7.0\Example002_a=bb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\obj\Debug\net7.0\Example002_a=bb.AssemblyInfoInputs.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\obj\Debug\net7.0\Example002_a=bb.AssemblyInfo.cs
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\obj\Debug\net7.0\Example002_a=bb.csproj.CoreCompileInputs.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\obj\Debug\net7.0\Example002_a=bb.dll
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\obj\Debug\net7.0\refint\Example002_a=bb.dll
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\obj\Debug\net7.0\Example002_a=bb.pdb
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\obj\Debug\net7.0\Example002_a=bb.genruntimeconfig.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example001\Example002_a=bb\obj\Debug\net7.0\ref\Example002_a=bb.dll
