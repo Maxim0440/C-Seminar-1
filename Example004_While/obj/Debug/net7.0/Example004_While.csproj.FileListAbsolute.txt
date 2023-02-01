@@ -1,0 +1,15 @@
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\bin\Debug\net7.0\Example004_While.exe
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\bin\Debug\net7.0\Example004_While.deps.json
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\bin\Debug\net7.0\Example004_While.runtimeconfig.json
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\bin\Debug\net7.0\Example004_While.dll
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\bin\Debug\net7.0\Example004_While.pdb
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\obj\Debug\net7.0\Example004_While.csproj.AssemblyReference.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\obj\Debug\net7.0\Example004_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\obj\Debug\net7.0\Example004_While.AssemblyInfoInputs.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\obj\Debug\net7.0\Example004_While.AssemblyInfo.cs
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\obj\Debug\net7.0\Example004_While.csproj.CoreCompileInputs.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\obj\Debug\net7.0\Example004_While.dll
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\obj\Debug\net7.0\refint\Example004_While.dll
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\obj\Debug\net7.0\Example004_While.pdb
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\obj\Debug\net7.0\Example004_While.genruntimeconfig.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example004_While\obj\Debug\net7.0\ref\Example004_While.dll
