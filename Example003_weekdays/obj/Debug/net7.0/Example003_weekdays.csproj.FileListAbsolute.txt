@@ -1,0 +1,15 @@
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\bin\Debug\net7.0\Example003_weekdays.exe
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\bin\Debug\net7.0\Example003_weekdays.deps.json
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\bin\Debug\net7.0\Example003_weekdays.runtimeconfig.json
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\bin\Debug\net7.0\Example003_weekdays.dll
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\bin\Debug\net7.0\Example003_weekdays.pdb
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\obj\Debug\net7.0\Example003_weekdays.csproj.AssemblyReference.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\obj\Debug\net7.0\Example003_weekdays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\obj\Debug\net7.0\Example003_weekdays.AssemblyInfoInputs.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\obj\Debug\net7.0\Example003_weekdays.AssemblyInfo.cs
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\obj\Debug\net7.0\Example003_weekdays.csproj.CoreCompileInputs.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\obj\Debug\net7.0\Example003_weekdays.dll
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\obj\Debug\net7.0\refint\Example003_weekdays.dll
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\obj\Debug\net7.0\Example003_weekdays.pdb
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\obj\Debug\net7.0\Example003_weekdays.genruntimeconfig.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example003_weekdays\obj\Debug\net7.0\ref\Example003_weekdays.dll
