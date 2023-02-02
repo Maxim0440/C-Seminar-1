@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Example6_3Table/1.0.0": {
+        "runtime": {
+          "Example6_3Table.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example6_3Table/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\bin\Debug\net7.0\Example6_3Table.exe
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\bin\Debug\net7.0\Example6_3Table.deps.json
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\bin\Debug\net7.0\Example6_3Table.runtimeconfig.json
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\bin\Debug\net7.0\Example6_3Table.dll
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\bin\Debug\net7.0\Example6_3Table.pdb
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\obj\Debug\net7.0\Example6_3Table.csproj.AssemblyReference.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\obj\Debug\net7.0\Example6_3Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\obj\Debug\net7.0\Example6_3Table.AssemblyInfoInputs.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\obj\Debug\net7.0\Example6_3Table.AssemblyInfo.cs
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\obj\Debug\net7.0\Example6_3Table.csproj.CoreCompileInputs.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\obj\Debug\net7.0\Example6_3Table.dll
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\obj\Debug\net7.0\refint\Example6_3Table.dll
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\obj\Debug\net7.0\Example6_3Table.pdb
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\obj\Debug\net7.0\Example6_3Table.genruntimeconfig.cache
+C:\Users\maxim\GIT\C# Семинар 1\Example6_3Table\obj\Debug\net7.0\ref\Example6_3Table.dll
