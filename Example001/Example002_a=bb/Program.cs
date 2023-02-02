@@ -1,19 +1,9 @@
-﻿Console.Write("Введите первое число");
+﻿Console.Write("Введите число");
 
-int numberA = Convert.ToInt32(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
 
-System.Console.Write("Введите второе число");
 
-int numberB = Convert.ToInt32(Console.ReadLine());
-
-if (numberA == numberB * numberB)
+int LastDigit = number % 10;
 {
-    System.Console.WriteLine("Правильно!");
+    System.Console.WriteLine(LastDigit);
 }
-else
-{
-    System.Console.WriteLine("Не подходит, пробуй еще");
-}
-
-
-
